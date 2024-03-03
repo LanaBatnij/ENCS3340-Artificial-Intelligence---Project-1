@@ -1,0 +1,29 @@
+Jamal Othman Hosen Seyam;ENCS2110,ENCS412,ENEE2312,ENEE3302
+Ibrahim Ahmed Abdallah Nemer;ENCS2110,ENCS2340,ENCS3320,ENCS4130
+Ismail Mohammad Mousa Khater;ENCS2110,ENCS2340,ENCS4130,
+Adnan Hussein Mahmoud Yahya	;ENCS2110
+Khader Shehadeh Nassar Mohammad;ENCS2110,ENCS3330,ENCS5332
+Bilal Jafar Hamed Karaki;ENCS2110,ENCS2340
+Mohammed Sami Abdul Karim Hussein;ENCS2340,ENCS4300,ENCS5150
+Anjad Jamal Rushdi Badran;
+Ali Hasan Moath Abdo;ENCS2340,ENEE2311,ENEE3101
+Abualseoud Ahmad Abualseoud Hanani;ENCS2380,ENCS311,ENCS4110
+Mohammad Khaleel Issa Jubran;ENCS3130,ENEE2307
+Khader Shehadeh Nassar Mohammad;ENCS3130
+Aziz Mohammed Ahmad Qaroush;ENCS3130,ENCS3340,ENCS4370,ENCS514
+Abdallatif S.A. Abuissa;ENCS3310,ENCS411
+Abdalkarim Ishaq Ibraheem Awad;ENCS3320,ENCS4130,
+Mohammed H.S. Helal;ENCS3341,ENCS336,ENCS4130
+Yazan Jamal Ibrahim Abu Farha;ENCS3390,ENCS5150,ENCS5341
+Bashar Mohammad Abdul Khaliq Tahayna;ENCS3390,ENCS4130,ENCS4370
+Ayman Ali Mohammad Hroub;ENCS4110,ENCS5399
+Wasel Tahsin Ahmad Ghanem;ENCS412,ENCS4380
+Alhareth M.T. Zyoud;ENCS4310,ENEE2307,ENEE2311
+Qadri A.A. Mayyala;ENCS4310
+Ahmad Saleh Ibrahim Alsadeh	;ENCS4320,ENCS5322
+Hanna Saba Hanna Bullata;ENCS4330,ENCS514
+Jaser Abdel Mon'En Fayiz Sa'Ed;ENEE2101,ENEE2102,ENEE2304,ENEE2307
+Mohammad Jehad Mohammad A'Ta Husni Al Ju'Beh;ENEE2103,ENEE2360,ENEE3103,ENEE3112,ENEE3304
+Nasser Abdel Jaleel Muhammad Ismail;ENEE2103,ENEE2360,ENEE3112
+Hakam Suleiman Nu'Man Shehadeh;ENEE2304
+Muhammad Sharif Mustafa Abu-Khaizaran;ENEE2408
